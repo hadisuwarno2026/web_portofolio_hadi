@@ -1,0 +1,6 @@
+{
+  "name": "Hadi Suwarno Portfolio",
+  "description": "Portofolio Profesional Hadi Suwarno - Spesialis Data Aset, Pendukung Proyek, dan Pengembang IoT",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
