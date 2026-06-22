@@ -73,6 +73,17 @@ export default function About() {
               />
             </div>
 
+             {/* View CV Button */}
+            <a
+              href="https://drive.google.com/file/d/1eeAwyZk3vg00UTLWz0vFj3x-gipUi8b0/view"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full max-w-[340px] flex items-center justify-center gap-2 px-5 py-3.5 rounded-xl font-mono text-xs font-bold uppercase tracking-widest text-cyan-400 bg-slate-900/40 hover:bg-slate-900 border border-cyan-400/30 hover:border-cyan-400 cursor-pointer transition-all duration-300 active:scale-95 hover:shadow-[0_0_20px_rgba(6,182,212,0.15)] group"
+            >
+              <FileText className="w-4 h-4 text-cyan-400 group-hover:scale-110 transition-transform" />
+              <span>LIHAT / DOWNLOAD CV</span>
+            </a>
+
             {/* Stats Row */}
             <div className="w-full max-w-[340px] grid grid-cols-3 gap-2">
               {stats.map((stat, idx) => (
