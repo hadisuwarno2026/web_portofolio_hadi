@@ -1,12 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://lh3.googleusercontent.com/d/1WQ1B0ao2xHpX-2u6_xjp12siYgfmK7lD" />
 </div>
 
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/f43e5245-889b-4737-9033-3f3af62943d6
+View your app in AI Studio: https://hadi-suwarno.vercel.app
 
 ## Run Locally
 
