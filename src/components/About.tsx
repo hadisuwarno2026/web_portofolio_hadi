@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { Target, Award, Users, Database, Cpu, Wrench, Shield, CheckCircle2 } from 'lucide-react';
+import { Target, Award, Users, Database, Cpu, Wrench, Shield, CheckCircle2, FileText } from 'lucide-react';
 
 export default function About() {
   const stats = [
@@ -73,7 +73,7 @@ export default function About() {
               />
             </div>
 
-             {/* View CV Button */}
+            {/* View CV Button */}
             <a
               href="https://drive.google.com/file/d/1eeAwyZk3vg00UTLWz0vFj3x-gipUi8b0/view"
               target="_blank"
